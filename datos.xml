@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Etiqueta raiz -->
+<contenedor_producto>
+    <producto>
+        <categoria>
+            <codigo>I-4578</codigo>
+            <nombre>Infantiles</nombre>
+            <descripcion>Ropa, zapatos y accesorios para todas las edades.</descripcion>
+        </categoria>
+    </producto>
+    <producto>
+        <categoria>
+            <codigo>D-4585</codigo>
+            <nombre>Damas</nombre>
+            <descripcion>Encuentra tu estilo en todas nuestras lineas de productos.</descripcion>
+        </categoria>
+    </producto>
+    <producto>
+        <categoria>
+            <codigo>C-4596</codigo>
+            <nombre>Caballeros</nombre>
+            <descripcion>Encuentra tu estilo en todas nuestras lineas de productos.</descripcion>
+        </categoria>
+    </producto>
+    <producto> X-8675
+        <categoria>
+            <codigo>H-8576</codigo>
+            <nombre>Hogar</nombre>
+            <descripcion>Contamos con un amplio catalogo para darle color a tu hogar.</descripcion>
+        </categoria>
+    </producto>
+    <producto> 
+        <categoria>
+            <codigo>X-8675</codigo>
+            <nombre>Deportes</nombre>
+            <descripcion>Encuentra el atuendo que se adapte a tu rutina.</descripcion>
+        </categoria>
+    </producto>
+</contenedor_producto>
